@@ -15,7 +15,7 @@
 			"icon": "phone",
 			"label": "Other button",
 			"action": {
-				“js”: "window.Hello3('js call from notification')"
+				"js": "window.Hello3('js call from notification')"
 			}
 		}
 	]
