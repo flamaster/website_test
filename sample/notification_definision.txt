@@ -1,0 +1,22 @@
+{
+	"title": "Hello world",
+	"content": "This is the full notification content",
+	"action": {
+		"url": "https://onet.pl/"
+	},
+	"buttons": [{
+			"icon": "phone",
+			"label": "Show phone number",
+			"action": {
+				"url": "https://onet.pl/"
+			}
+		},
+		{
+			"icon": "phone",
+			"label": "Other button",
+			"action": {
+				"Url": "https://wp.pl/"
+			}
+		}
+	]
+}
