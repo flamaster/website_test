@@ -15,7 +15,7 @@
 			"icon": "phone",
 			"label": "Other button",
 			"action": {
-				"Url": "https://wp.pl/"
+				“js”: "window.Hello3('js call from notification')"
 			}
 		}
 	]
