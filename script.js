@@ -76,7 +76,7 @@ function loadImage(is){
 
 	//console.log(trace);
 
-	_gaq.push(['_trackEvent', 'Cover', 'Load', trace]);
+	//_gaq.push(['_trackEvent', 'Cover', 'Load', trace]);
 
 	document.images['im'].src = file;
 	
