@@ -1,0 +1,85 @@
+:root {
+    --bg-color: #0f172a;
+    --card-bg: #1e293b;
+    --text-color: #f1f5f9;
+    --accent-color: #38bdf8; /* Cyjanowy błękit - nowoczesny i technologiczny */
+    --secondary-text: #94a3b8;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    line-height: 1.6;
+    scroll-behavior: smooth;
+}
+
+/* Nawigacja */
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem 10%;
+    align-items: center;
+}
+
+.logo { font-size: 1.5rem; font-weight: 700; }
+.logo span { color: var(--accent-color); }
+
+nav ul { display: flex; list-style: none; }
+nav ul li { margin-left: 2rem; }
+nav ul li a { text-decoration: none; color: var(--text-color); font-weight: 300; transition: 0.3s; }
+nav ul li a:hover { color: var(--accent-color); }
+
+/* Hero Section */
+#hero {
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    padding: 0 10%;
+}
+
+h1 { font-size: 3.5rem; line-height: 1.1; margin-bottom: 1.5rem; }
+h1 span { color: var(--accent-color); }
+
+#hero p { font-size: 1.2rem; color: var(--secondary-text); max-width: 600px; margin-bottom: 2rem; }
+
+/* Przyciski */
+.btn {
+    padding: 0.8rem 2rem;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: 600;
+    transition: 0.3s;
+    display: inline-block;
+    margin-right: 1rem;
+}
+
+.primary { background: var(--accent-color); color: var(--bg-color); }
+.secondary { border: 1px solid var(--accent-color); color: var(--accent-color); }
+.btn:hover { opacity: 0.8; transform: translateY(-2px); }
+
+/* Projekty */
+#projects { padding: 5rem 10%; }
+.project-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+.project-card {
+    background: var(--card-bg);
+    padding: 2rem;
+    border-radius: 12px;
+    border-bottom: 4px solid transparent;
+    transition: 0.3s;
+}
+
+.project-card:hover {
+    border-color: var(--accent-color);
+    transform: translateY(-5px);
+}
+
+footer { text-align: center; padding: 3rem; color: var(--secondary-text); font-size: 0.9rem; }
