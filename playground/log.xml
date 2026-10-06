@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<projekty>
+
+<year head="1998" start="1998.01.01" stop="1998.01.01" img=" " ><![CDATA[2004-06-22]]></year>
+<year head="1999" start="1999.01.01" stop="1999.01.01" img=" " ><![CDATA[2004-06-22]]></year>
+<year head="2000" start="2000.01.01" stop="2000.01.01" img=" " ><![CDATA[2004-06-22]]></year>
+<year head="2001" start="2001.01.01" stop="2001.01.01" img=" " ><![CDATA[2004-06-22]]></year>
+<year head="2002" start="2002.01.01" stop="2002.01.01" img=" " ><![CDATA[2004-06-22]]></year>
+<year head="2003" start="2003.01.01" stop="2003.01.01" img=" " ><![CDATA[2004-06-22]]></year>
+<year head="2004" start="2004.01.01" stop="2004.01.01" img=" " ><![CDATA[2004-06-22]]></year>
+<year head="2005" start="2005.01.01" stop="2005.01.01" img=" " ><![CDATA[2004-06-22]]></year>
+
+
+<etat head="Polskie Radio SA" start="1998.02.01" stop="1999.10.15" img=" / Warszawa" ><![CDATA[2004-06-22]]></etat>
+<etat head="internet FM" start="1999.10.17" stop="1999.12.30" img=" " tag=" / Kraków"><![CDATA[2004-06-22]]></etat>
+<etat head="AMG.net" start="2000.01.01" stop="2001.03.01" img=" " tag=" / Łódz"><![CDATA[2004-06-22]]></etat>
+<etat head="tc:reaktor" start="2001.03.14" stop="2001.08.01" img=" " tag=" / Warszawa"><![CDATA[2004-06-22]]></etat>
+<etat head="interactive vision" start="2002.03.01" stop="2003.04.15" img=" " tag=" / Gdynia"><![CDATA[2004-06-22]]></etat>
+<etat head="implix" start="2003.09.01" stop="2004.11.01" img=" " tag=" / Gdynia"><![CDATA[2004-06-22]]></etat>
+
+
+<projekt head="TP SA: 800-801" typ="multimedia" start="2000.06.01" stop="2000.09.01" img="800.jpg" tag=" 800 - 801"><![CDATA[TASK: multimedia design]]></projekt>
+<projekt head="TP SA: Octopus ISDN" typ="multimedia" start="2000.04.01" stop="2000.05.01" img="octo.jpg" tag=" Octopus ISDN"><![CDATA[TASK: multimedia design]]></projekt>
+<projekt head="TP SA: Filmowe Życie" typ="multimedia" start="2000.08.01" stop="2000.10.01" img="filmowe.jpg" tag=" Filmowe Życie"><![CDATA[TASK: multimedia design]]></projekt>
+<projekt head="AMG.net self.DEMO" typ="multimedia" start="2000.06.01" stop="2000.09.01" img="amg.jpg" tag=" e-business"><![CDATA[TASK: multimedia design]]></projekt>
+<projekt head="Spedpol " typ="site" start="2000.12.01" stop="2000.12.10" img="sped.jpg" tag=" Filmowe Życie"><![CDATA[TASK: website design]]></projekt>
+
+<projekt head="CUBETEAM" start="2001.04.16" stop="2001.04.20" img="cube.jpg" tag=""><![CDATA[TASK: animation]]></projekt>
+
+<projekt head="Mama's box" typ="multimedia" start="2001.09.11" stop="2001.09.14" img="box.jpg" tag="dla Mama+Studio"><![CDATA[TASK: multimedia development]]></projekt>
+<projekt head="e-learning.pl" typ="multimedia" start="2001.10.11" stop="2001.11.11" img="elearn.jpg" tag="dla Mama+Studio"><![CDATA[TASK: multimedia development]]></projekt>
+
+<projekt head="ZT kruszwica" typ="site" start="2001.04.20" stop="2001.05.30" img="kru.jpg" tag="dla 3d.art"><![CDATA[TASK: website layout proposals]]></projekt>
+<projekt head="vendi" start="2001.08.07" stop="2001.08.15" img="vendi.jpg" tag="dla 3d.art"><![CDATA[TASK: design, animation]]></projekt>
+
+<projekt head="kaczmarski" typ="site" start="2002.04.20" stop="2002.04.28" img="kaczm.jpg" tag="adv"><![CDATA[TASK: website layout]]></projekt>
+<projekt head="Adv" typ="design" start="2002.04.20" stop="2002.04.28" img="adv.jpg" tag="adv"><![CDATA[TASK: website layout]]></projekt>
+
+<projekt head="lupinski.info" typ="design" start="2002.04.20" stop="2002.05.28" img="lupinski.jpg" tag=""><![CDATA[TASK: website layout, flash development]]></projekt>
+
+<projekt head="dr sensitive" typ="site" start="2001.08.01" stop="2001.09.01" img="dr.jpg" tag=""><![CDATA[TASK: website layout, flash development]]></projekt>
+<projekt head="energis" typ="pitch" start="2002.10.19" stop="2002.10.25" img="energis.jpg"><![CDATA[TASK: website layout proposals]]></projekt>
+<projekt head="fluid" start="2002.10.09" stop="2002.10.16" img="fluid.jpg" tag="dla Mama+studio"><![CDATA[TASK: animation]]></projekt>
+<projekt head="kinoplex" start="2002.10.07" stop="2002.10.12" img="kinoplex.jpg" tag=""><![CDATA[TASK: website layout proposals]]></projekt>
+
+<projekt head="siemens" start="2002.04.28" stop="2002.04.30" img="siemens.jpg" tag="dla Mama+studio"><![CDATA[TASK: animation]]></projekt>
+<projekt head="filmit" typ="site" start="2002.10.01" stop="2002.10.31" img="filmit.jpg" tag=""><![CDATA[TASK: website layout, flash development]]></projekt>
+<projekt head="lightstudio" typ="site" start="2002.11.27" stop="2002.12.11" img="ls.jpg" tag="dla Mama+studio"><![CDATA[TASK: flash development]]></projekt>
+<projekt head="mikolaj dlugosz" url="http://www.mikolajdlugosz.com/" typ="site" start="2002.09.07" stop="2002.10.11" img="dlugosz.jpg" tag="dla Mama+studio"><![CDATA[TASK: flash development]]></projekt>
+<projekt head="agata rogalska" typ="site" start="2002.10.08" stop="2002.12.16" img="topa.jpg" tag="dla Mama+studio"><![CDATA[TASK: flash development]]></projekt>
+<projekt head="arkadius" typ="multimedia" start="2003.05.25" stop="2003.05.30" img="ar.jpg" tag="dla Mama+studio"><![CDATA[TASK: flash development]]></projekt>
+
+<projekt head="happy hours" url="http://www.happyhours.pl/" typ="site" start="2003.05.05" stop="2003.06.01" img="hh.jpg" tag="dla Mama+studio"><![CDATA[TASK: flash development]]></projekt>
+
+<projekt head="Mama+Studio" url="http://www.mamastudio.pl/" typ="site" start="2003.05.05" stop="2003.08.01" img="mama.jpg" tag="dla Mama+studio"><![CDATA[TASK: flash development]]></projekt>
+
+<projekt head="alka prim" typ="site" start="2003.05.05" stop="2003.06.01" img="kac.jpg" tag="dla Mama+studio"><![CDATA[TASK: flash development]]></projekt>
+<projekt head="dj wojcio" typ="site" start="2003.06.11" stop="2003.07.14" img="dj.jpg" tag="dla Mama+studio"><![CDATA[TASK: flash development]]></projekt>
+<projekt head="grupa filmowa" url="http://www.grupafilmowa.pl/" typ="site" start="2003.08.01" stop="2003.08.09" img="grupa.jpg" tag=""><![CDATA[TASK: website layout, site development]]></projekt>
+<projekt head="sapard" start="2003.07.03" stop="2003.08.08" img="sapard.jpg" tag="ed commercials"><![CDATA[TASK: design, animation]]></projekt>
+<projekt head="gp batteries" start="2003.08.10" stop="2003.08.14" img="gp.jpg" tag=""><![CDATA[TASK: website layout proposals]]></projekt>
+<projekt head="pareslow" url="http://www.pareslow.com/" typ="site" start="2003.08.01" stop="2003.09.01" img="pareslow.jpg" tag=""><![CDATA[TASK: website layout, site development]]></projekt>
+<projekt head="lodz productions" url="http://www.lodzproductions.com/" typ="site" start="2003.10.22" stop="2003.11.05" img="lodz.jpg" tag="dla Mama+studio"><![CDATA[TASK: flash development]]></projekt>
+
+<projekt head="mama:skit" start="2004.08.10" stop="2004.08.20" img="mamaskit.jpg" tag="dla Mama+studio"><![CDATA[TASK: animation]]></projekt>
+<projekt head="mother made" url="http://mama.starla.pl/mm" typ="site" start="2004.08.22" stop="2004.09.20" img="mm.jpg" tag="dla Mama+studio"><![CDATA[TASK: flash development]]></projekt>
+
+<projekt head="renault" start="2003.12.10" stop="2003.12.15" img="reno.jpg" tag="dla Mama+studio"><![CDATA[TASK: animation]]></projekt>
+<projekt head="va" start="2003.06.26" stop="2003.06.28" img="va.jpg" tag=""><![CDATA[TASK: design, animation]]></projekt>
+<projekt head="aaaby" start="2003.10.03" stop="2003.10.04" img="aaaby.jpg" tag="dla Mama+studio"><![CDATA[TASK: flash development]]></projekt>
+<projekt head="ffue" start="2003.10.17" stop="2003.10.22" img="ffue.jpg" tag="dla Mama+studio"><![CDATA[TASK: animation]]></projekt>
+
+<projekt head="51 minut" start="2003.10.17" stop="2003.10.22" img="51.jpg" tag="dla Mama+studio"><![CDATA[TASK: animation]]></projekt>
+<projekt head="fantom" start="2003.10.17" stop="2003.10.22" img="fantom.jpg" tag="dla Mama+studio"><![CDATA[TASK: animation]]></projekt>
+
+<projekt head="ew" typ="pitch" start="2004.01.10" stop="2004.01.15" img="suka.jpg"><![CDATA[TASK: website layout proposals]]></projekt>
+
+<projekt head="dzieci ulicy" typ="multimedia" start="2004.05.01" stop="2004.06.05" img="fdp.jpg" tag="dla Mama+Studio"><![CDATA[TASK: multimedia development]]></projekt>
+
+<projekt head="wyborcza" start="2003.10.12" stop="2003.10.26" img="aig.jpg" tag="dla Mama+studio"><![CDATA[TASK: flash development]]></projekt>
+<projekt typ="animacja" head="silverscreen" start="2003.12.04" stop="2003.12.19" img="karp.jpg" tag="dla Mama+studio"><![CDATA[TASK: animation]]></projekt>
+<projekt head="paprika" url="http://www.paprika.pl/" typ="site" start="2004.01.06" stop="2004.03.20" img="pap.jpg" tag="dla Mama+studio"><![CDATA[TASK: flash development]]></projekt>
+<projekt head="cafe" start="2004.02.22" stop="2004.02.24" img="cafe.jpg" tag=""><![CDATA[TASK: website layout proposals]]></projekt>
+<projekt typ="animacja" head="Hamlet" start="2004.01.06" stop="2004.03.01" img="hm.jpg" tag="dla Mama+studio"><![CDATA[TASK: animation]]></projekt>
+<projekt head="redbull" typ="site" start="2003.12.17" stop="2004.04.03" img="rb.jpg" tag="dla Mama+studio"><![CDATA[TASK: flash development]]></projekt>
+<projekt head="agora" start="2004.04.03" stop="2004.04.05" img="agora.jpg" tag="dla Mama+studio"><![CDATA[TASK: flash development]]></projekt>
+<projekt typ="animacja" head="renault grand scenic" start="2004.03.25" stop="2004.03.30" img="grand.jpg" tag="dla Mama+studio"><![CDATA[TASK: animation]]></projekt>
+<projekt head="amstrong" url="http://www.amstrong.pl/" typ="design" start="2004.04.14" stop="2004.04.20" img="am.jpg" tag=""><![CDATA[TASK: website layout]]></projekt>
+<projekt head="pepegi" typ="animacja" start="2004.03.28" stop="2004.04.02" img="pepegi.jpg" tag="dla Mama+studio"><![CDATA[TASK: animation, flash development]]></projekt>
+<projekt head="astigamtic 2004" typ="animacja" start="2004.05.21" stop="2004.06.15" img="astigmatic.jpg" tag="dla Mama+studio"><![CDATA[TASK: animation]]></projekt>
+<projekt head="naturalny dom" typ="development" url="http://www.naturalnydom.pl/" start="2004.08.16" stop="2004.09.12" img="nd.jpg" tag="c5"><![CDATA[TASK: flash development]]></projekt>
+<projekt head="chocomodels" typ="development" url="http://www.chocomodels.com/" start="2004.10.14" stop="2005.01.16" img="choco.jpg" tag="dla Mama+studio"><![CDATA[TASK: flash development]]></projekt>
+<projekt typ="animacja" head="miedzynami" start="2004.10.26" stop="2004.10.28" img="miedzynami.jpg" tag="dla Mama+studio"><![CDATA[TASK: animation]]></projekt>
+<projekt head="whitecat " typ="development" start="2004.09.04" stop="2004.11.21" img="wcs.jpg" tag="dla Mama+studio"><![CDATA[TASK: flash development]]></projekt>
+<projekt head="crewmanager.net" start="2005.05.03" stop="2005.05.16" img="cm.jpg" tag=""><![CDATA[presentation layout, flash development]]></projekt>
+<projekt head="lotos" start="2004.10.20" stop="2004.10.30" img="kolej.jpg" tag="cookie"><![CDATA[TASK: flash development]]></projekt>
+<projekt head="philips " start="2001.03.15" stop="2002.01.01" img="up.jpg" tag="maxweber"><![CDATA[TASK: animation]]></projekt>
+<projekt head="ciesla" start="2002.11.19" stop="2002.12.05" img="ciesla.jpg" tag=""><![CDATA[TASK: website layout, flash development]]></projekt>
+<projekt head="fl2" start="2003.06.13" stop="2003.09.14" img="fl_max.jpg" tag=""><![CDATA[TASK: website layout, flash development]]></projekt>
+
+<projekt head="flamaster 2000 - 2001" start="2000.01.01" stop="2002.01.01" img="fla.jpg" tag=""><![CDATA[TASK: website layout, flash development]]></projekt>
+
+
+<projekt head="wyborcza" start="2003.10.12" stop="2003.12.08" img="gw.jpg" tag="dla Mama+studio"><![CDATA[TASK: flash development]]></projekt>
+<projekt head="itifs" typ="development" url="http://www.itifs.com/" start="2004.03.15" stop="2004.09.29" img="itifs.jpg" tag="dla Mama+studio"><![CDATA[TASK: flash development]]></projekt>
+
+<projekt head="miasto żoliborz 2004" typ="animacja" start="2005.04.01" stop="2005.04.04" img="bum.jpg" tag="dla Mama+studio"><![CDATA[TASK: animation]]></projekt>
+
+<projekt head="webseven" typ="site" url="http://www.webseven.pl/" start="2005.01.12" stop="2005.01.27" img="w7.jpg" tag=""><![CDATA[TASK: website layout, flash development]]></projekt>
+<projekt head="bongos" typ="flash" url="http://www.bongos.pl/" start="2005.02.11" stop="2005.06.19" img="bongos.jpg" tag="dla Mama+studio"><![CDATA[TASK: flash development]]></projekt>
+
+<projekt head="deSmart" typ="design" start="2005.02.18" stop="2005.02.24" img="desmart.jpg" tag=" "><![CDATA[TASK: website layout]]></projekt>
+
+<projekt head="jetline" typ="site" url="http://www.jetline.pl/" start="2004.10.12" stop="2005.02.02" img="jl.jpg" tag="dla Mama+studio"><![CDATA[TASK: flash development]]></projekt>
+<projekt head="tvp kultura" typ="animacja" start="2005.04.19" stop="2005.04.28" img="kultura.jpg" tag="dla Mama+studio"><![CDATA[TASK: animation]]></projekt>
+<projekt head="miasto żoliborz 2005" typ="animacja" start="2005.04.19" stop="2005.04.28" img="zola.jpg" tag="dla Mama+studio"><![CDATA[TASK: animation]]></projekt>
+<projekt head="scorbolamid" typ="development" url="http://www.scorbolamid.pl/" start="2005.02.11" stop="2005.04.04" img="scorbo.jpg" tag="dla Mama+studio"><![CDATA[TASK: flash development]]></projekt>
+<projekt head="goodidea" typ="development" url="http://www.goodidea.pl/" start="2005.05.01" stop="2005.06.15" img="gi.jpg" tag="dla Mama+studio"><![CDATA[TASK: flash development]]></projekt>
+<projekt head="Kent International" typ="development" start="2005.04.10" stop="2005.07.15" img="kent.jpg" tag=" dla Argonauts 360.pl"><![CDATA[TASK: flash development, motion design]]></projekt>
+<projekt head="OFFF 2005 -" typ="event" start="2005.05.10" stop="2005.05.15" img="offf.jpg" tag="Barcelona"><![CDATA[OFFF: 5 Festival of Digital Art and Electronic Music]]></projekt>
+<projekt head="Studio Perfekt" url="http://www.studio-perfekt.pl/" typ="site" start="2005.06.04" stop="2005.08.12" img="perfect.jpg" tag=" "><![CDATA[TASK: website layout, flash development]]></projekt>
+
+<projekt head="Mikolaj Lebkowski" url="http://www.mikolajlebkowski.com/" typ="site" start="2005.08.11" stop="2005.09.15" img="ml.jpg" tag=" "><![CDATA[TASK: flash development]]></projekt>
+<projekt head="Mikolaj Dlugosz" url="http://www.mikolajdlugosz.com/" typ="site" start="2005.08.27" stop="2005.09.27" img="md-v2.jpg" tag=" "><![CDATA[TASK: design, flash development]]></projekt>
+
+<projekt head="Lukasz Murgrabia" url="http://www.murgrabia.com/" typ="site" start="2005.08.14" stop="2005.10.01" img="lm.jpg" tag=" "><![CDATA[TASK: flash development]]></projekt>
+<projekt head="Mama+Studio" url="http://www.mamastudio.pl/" typ="site" start="2005.06.15" stop="2005.09.20" img="mamav2.jpg" tag=" "><![CDATA[TASK: flash development]]></projekt>
+
+</projekty>
+
